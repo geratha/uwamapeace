@@ -20,16 +20,18 @@ nav{
        
        margin-right:10px;
        padding:10px;
-       width:40%;
-       height:60%;
+       width:15%;
+       height:5%;
+       border-radius: 160px;
+       float:center;
+
      }
      footer{
         text-align:right;
         border-radius: 60px;
         background-color:whitesmoke;
         color:red
-     }
-    h3{
-        background-img="https://scontent.fkgl1-1.fna.fbcdn.net/v/t1.0-0/q82/p110x80/16195559_1944137722481619_5400565137032742217_n.jpg?_nc_cat=103&_nc_ht=scontent.fkgl1-1.fna&oh=c9880f57daba4f0097314880229b2208&oe=5CA28A1B">; 
-
+    }
+    body{
+        background-color:rgb(197, 203, 211);
     }
