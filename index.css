@@ -1,0 +1,35 @@
+nav{
+    padding:5px;
+    margin:0px;
+    text-align:right;
+    }
+    nav > a{
+        text-transform:uppercase;
+        text-decoration:none;
+        margin-right:10px;
+     }
+     nav > a:hover{
+        color:rgb(17, 34, 54);
+     }
+     h1{
+        text-transform:uppercase;
+        font-size:large;
+        font-family:monospace;
+     }
+     img{
+       
+       margin-right:10px;
+       padding:10px;
+       width:40%;
+       height:60%;
+     }
+     footer{
+        text-align:right;
+        border-radius: 60px;
+        background-color:whitesmoke;
+        color:red
+     }
+    h3{
+        background-img="https://scontent.fkgl1-1.fna.fbcdn.net/v/t1.0-0/q82/p110x80/16195559_1944137722481619_5400565137032742217_n.jpg?_nc_cat=103&_nc_ht=scontent.fkgl1-1.fna&oh=c9880f57daba4f0097314880229b2208&oe=5CA28A1B">; 
+
+    }
