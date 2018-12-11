@@ -23,9 +23,7 @@ nav{
        width:15%;
        height:5%;
        border-radius: 160px;
-       float:center;
-
-     }
+}
      footer{
         text-align:right;
         border-radius: 60px;
@@ -34,4 +32,10 @@ nav{
     }
     body{
         background-color:rgb(197, 203, 211);
+    }
+    .first{
+       text-transform:uppercase;
+        text-decoration:none;
+        margin-right:10px;
+
     }
