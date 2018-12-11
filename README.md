@@ -9,7 +9,7 @@ This project it conserned with different things,like the names of project,names 
 
  ## Link to live site on GitHub Pages
 
- https://github.com/geratha/uwamapeace
+ https://geratha.github.io/uwamapeace/
 
  ## licens and copy light
 
